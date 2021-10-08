@@ -1,0 +1,3 @@
+[core]
+	editor = vi
+	editor = code --wait
