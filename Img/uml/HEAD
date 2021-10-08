@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 efcfdb20530f3805d7dcf45c3a1a4eb341950afc shuhaiwen <shuhw@heredata.com.cn> 1627115338 +0800	commit (initial): .gitignore
+efcfdb20530f3805d7dcf45c3a1a4eb341950afc ef142b96f8a15d6943b50a252c60a6ab251b6a5b shuhaiwen <shuhw@heredata.com.cn> 1632881992 +0800	commit: commit 2
+ef142b96f8a15d6943b50a252c60a6ab251b6a5b 0b51f2f16914d1542ba3094936a2f91418224c38 shuhaiwen <shuhw@heredata.com.cn> 1632882081 +0800	commit: commit 3
+0b51f2f16914d1542ba3094936a2f91418224c38 f07cc010cba8ea478f504369e767e1055f01284c shuhaiwen <shuhw@heredata.com.cn> 1632882184 +0800	commit: commit 4
+f07cc010cba8ea478f504369e767e1055f01284c ef142b96f8a15d6943b50a252c60a6ab251b6a5b shuhaiwen <shuhw@heredata.com.cn> 1632882393 +0800	rebase (start): checkout efcfdb20530f3805d7dcf45c3a1a4eb341950afc
+ef142b96f8a15d6943b50a252c60a6ab251b6a5b 2ea15ce23f0cd50b46b04a19f00786121ec127dd shuhaiwen <shuhw@heredata.com.cn> 1632882393 +0800	rebase (squash): # This is a combination of 2 commits.
+2ea15ce23f0cd50b46b04a19f00786121ec127dd 2d5f9d08cd51bad1942e8ef11bdd369fb3930cc7 shuhaiwen <shuhw@heredata.com.cn> 1632882393 +0800	rebase (squash): merge commit 2,3,4
+2d5f9d08cd51bad1942e8ef11bdd369fb3930cc7 2d5f9d08cd51bad1942e8ef11bdd369fb3930cc7 shuhaiwen <shuhw@heredata.com.cn> 1632882393 +0800	rebase (finish): returning to refs/heads/main
+2d5f9d08cd51bad1942e8ef11bdd369fb3930cc7 2d5f9d08cd51bad1942e8ef11bdd369fb3930cc7 shuhaiwen <shuhw@heredata.com.cn> 1632907705 +0800	checkout: moving from main to b1
+2d5f9d08cd51bad1942e8ef11bdd369fb3930cc7 1ad14b30d6a67c3de8fe499f8d01eab96875fe5f shuhaiwen <shuhw@heredata.com.cn> 1632907754 +0800	commit: add 2 folder
+1ad14b30d6a67c3de8fe499f8d01eab96875fe5f 2d5f9d08cd51bad1942e8ef11bdd369fb3930cc7 shuhaiwen <shuhw@heredata.com.cn> 1632907774 +0800	checkout: moving from b1 to main
+2d5f9d08cd51bad1942e8ef11bdd369fb3930cc7 1ad14b30d6a67c3de8fe499f8d01eab96875fe5f shuhaiwen <shuhw@heredata.com.cn> 1632907910 +0800	checkout: moving from main to b1
+1ad14b30d6a67c3de8fe499f8d01eab96875fe5f 2d5f9d08cd51bad1942e8ef11bdd369fb3930cc7 shuhaiwen <shuhw@heredata.com.cn> 1632908518 +0800	checkout: moving from b1 to main
+2d5f9d08cd51bad1942e8ef11bdd369fb3930cc7 1ad14b30d6a67c3de8fe499f8d01eab96875fe5f shuhaiwen <shuhw@heredata.com.cn> 1632908532 +0800	merge b1: Fast-forward
+1ad14b30d6a67c3de8fe499f8d01eab96875fe5f 1ad14b30d6a67c3de8fe499f8d01eab96875fe5f shuhaiwen <shuhw@heredata.com.cn> 1632908576 +0800	checkout: moving from main to b1
+1ad14b30d6a67c3de8fe499f8d01eab96875fe5f 298fb37fd3ba672e0323c01e61c8967ee478496b shuhaiwen <shuhw@heredata.com.cn> 1632908663 +0800	commit: branch b1 commit
+298fb37fd3ba672e0323c01e61c8967ee478496b 1ad14b30d6a67c3de8fe499f8d01eab96875fe5f shuhaiwen <shuhw@heredata.com.cn> 1632908681 +0800	checkout: moving from b1 to main
+1ad14b30d6a67c3de8fe499f8d01eab96875fe5f 934c07538c276c1d9356528eac5c01c568675371 shuhaiwen <shuhw@heredata.com.cn> 1632908699 +0800	commit: branch main commit
+934c07538c276c1d9356528eac5c01c568675371 71d793e48ec893a71d2dea80a209a9c23b92c977 shuhaiwen <shuhw@heredata.com.cn> 1632908709 +0800	merge b1: Merge made by the 'recursive' strategy.
+71d793e48ec893a71d2dea80a209a9c23b92c977 298fb37fd3ba672e0323c01e61c8967ee478496b shuhaiwen <shuhw@heredata.com.cn> 1632908756 +0800	checkout: moving from main to b1
+298fb37fd3ba672e0323c01e61c8967ee478496b 53cb60f7e2a3f8e8e328c15850c72b0af330a31f shuhaiwen <shuhw@heredata.com.cn> 1632908810 +0800	commit: branch b1 commit +2
+53cb60f7e2a3f8e8e328c15850c72b0af330a31f 71d793e48ec893a71d2dea80a209a9c23b92c977 shuhaiwen <shuhw@heredata.com.cn> 1632908863 +0800	checkout: moving from b1 to main
+71d793e48ec893a71d2dea80a209a9c23b92c977 9d213ac9dafced9743e4257c48d507312e36c0e2 shuhaiwen <shuhw@heredata.com.cn> 1632909018 +0800	commit (merge): resolve merge 2.txt conflict
+9d213ac9dafced9743e4257c48d507312e36c0e2 f07cc010cba8ea478f504369e767e1055f01284c shuhaiwen <shuhw@heredata.com.cn> 1632992037 +0800	reset: moving to f07cc01
+f07cc010cba8ea478f504369e767e1055f01284c 9d213ac9dafced9743e4257c48d507312e36c0e2 shuhaiwen <shuhw@heredata.com.cn> 1632992099 +0800	reset: moving to 9d213ac
+9d213ac9dafced9743e4257c48d507312e36c0e2 b55291b03f58247c3ec8dfd773166a662d00fb2e shuhaiwen <shuhw@heredata.com.cn> 1633656365 +0800	commit: add 3.txt
+b55291b03f58247c3ec8dfd773166a662d00fb2e 62c0dd2831f0770a12b903d9dfca18ab1fa6f62e shuhaiwen <shuhw@heredata.com.cn> 1633675642 +0800	commit: add 4.txt
+62c0dd2831f0770a12b903d9dfca18ab1fa6f62e 53cb60f7e2a3f8e8e328c15850c72b0af330a31f shuhaiwen <shuhw@heredata.com.cn> 1633675675 +0800	checkout: moving from main to b1
+53cb60f7e2a3f8e8e328c15850c72b0af330a31f 62c0dd2831f0770a12b903d9dfca18ab1fa6f62e shuhaiwen <shuhw@heredata.com.cn> 1633676052 +0800	checkout: moving from b1 to main
+62c0dd2831f0770a12b903d9dfca18ab1fa6f62e 53cb60f7e2a3f8e8e328c15850c72b0af330a31f shuhaiwen <shuhw@heredata.com.cn> 1633676159 +0800	checkout: moving from main to b1
